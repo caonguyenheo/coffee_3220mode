@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.12">
+  <compounddef id="dir_33fa6e63b2d1598c44f07e9e510faede" kind="dir">
+    <compoundname>posix</compoundname>
+    <innerdir refid="dir_ae5a3eba07d61f7eea66cef4225dd4d9">sys</innerdir>
+    <innerfile refid="unistd_8h">unistd.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="exports/tidrivers_cc32xx_3_60_01_00/kernel/nortos/posix/"/>
+  </compounddef>
+</doxygen>

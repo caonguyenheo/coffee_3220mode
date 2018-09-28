@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.12">
+  <compounddef id="dir_7e60be8e922e947a6256f288d23dfcec" kind="dir">
+    <compoundname>ti</compoundname>
+    <innerdir refid="dir_62bcc216ac81372ce3dc7a407a6a68f1">display</innerdir>
+    <innerdir refid="dir_7d9c1feabf37ecde3230b1ac80dadcb4">drivers</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="exports/tidrivers_cc32xx_3_60_01_00/source/ti/"/>
+  </compounddef>
+</doxygen>
