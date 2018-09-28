@@ -1,0 +1,31 @@
+CC3x20 Embedded Programming - v2.0.0
+-------------------------------------
+Release date: 		
+		Jun 01, 2017
+		
+Description:
+		Embedded Programming package describes in details how to flash a complete image, generated via Uniflash on CC3120/CC3220 Simplelink devices.
+		The details include the setup, Boot Loader protocol and procedures of embedded programming.
+
+Content:
+		- tech.apn.simplelink.embedded_programming.gen2.pdf appliaction note
+		- Python source code implementing image programming and aligned with procedures described in the application notes
+		- Windows executable (compiled from the source code)
+		- Saleae logic capture illustrating image programming on CC3120, CC3220S, CC3220SF and encrypted image on CC3220S
+		
+Structure:
+		<installation directory>
+                	|
+	                -> README.txt 
+        	        -> CC3x20embeddedimageprogrammingexamp_manifest.html
+			-> sources
+				|
+				-> BTL_ram.ptc
+				-> BTL_sflash.ptc
+				-> bootldr.py
+				-> ImageProgramming.py
+				-> setup.py
+			-> executables
+				|
+				-> ImageProgramming.exe
+				-> README.txt
